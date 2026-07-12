@@ -1,0 +1,6 @@
+{
+  "ok": true,
+  "errors": [],
+  "warnings": [],
+  "note": "Existing v1 8x9 atlas preserved after validate_atlas.py passed with no errors or warnings and contact-sheet review confirmed all standard rows."
+}

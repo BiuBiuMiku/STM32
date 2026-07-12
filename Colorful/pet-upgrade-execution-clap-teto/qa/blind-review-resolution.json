@@ -1,0 +1,9 @@
+{
+  "decision": "accept",
+  "severity": "minor",
+  "failed_checks": [
+    "horizontal-7 intermediate pair: 202.5 versus 157.5"
+  ],
+  "evidence": "Both hard cardinal pairs passed unanimously. The labeled normal-size direction sheet shows 157.5 as the final down-right step and 202.5 as the first down-left step around the approved 180-down cardinal, with no principal-quadrant reversal. The blind validator itself remains ok:true and treats this isolated intermediate disagreement as a review warning.",
+  "reviewed_by": "parent"
+}
